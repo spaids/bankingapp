@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "chart.js": "^4.4.6",
+    "clsx": "^2.1.1",
+    "query-string": "^9.1.1",
+    "react-chartjs2": "^1.2.1",
+    "react-countup": "^6.5.3",
+    "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"
   }
 }
